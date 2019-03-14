@@ -27,7 +27,7 @@ namespace webbrowser
             webBrowser1.Navigate(textBox1.Text.Trim());
             while (webBrowser1.ReadyState < WebBrowserReadyState.Complete)
                 Application.DoEvents();
-            HtmlElement ImageCodeTag = webBrowser1.Document.GetElementById("vcodeing");
+            HtmlElement ImageCodeTag = webBrowser1.Document.GetElementById("vcodeimg");
             Image FinalImage = GetCodeImage(webBrowser1, ImageCodeTag);
 
             pictureBox1.Image = FinalImage;
