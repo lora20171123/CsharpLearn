@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\CsharpLearn\Test314\Test314\obj\Debug\Test314.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CsharpLearn\Test314\Test314\obj\Debug\Test314.csproj.CoreCompileInputs.cache
